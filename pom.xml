@@ -65,11 +65,11 @@
                 <version>2.12</version>
                 <!-- configuration> <parallel>methods</parallel> <threadCount>10</threadCount>
                     </configuration -->
-                <!--<configuration>
+                <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>TestNG.xml</suiteXmlFile>
                     </suiteXmlFiles>
-                </configuration> -->
+                </configuration>
             </plugin>
         </plugins>
     </build>
